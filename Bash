@@ -1,0 +1,19 @@
+power-play-app/
+├── App.js
+├── app.json
+├── package.json
+├── babel.config.js
+├── metro.config.js
+├── .gitignore
+├── README.md
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── services/
+│   ├── utils/
+│   ├── navigation/
+│   ├── store/
+│   ├── assets/
+│   └── forms/
+└── ios/
+└── android/
