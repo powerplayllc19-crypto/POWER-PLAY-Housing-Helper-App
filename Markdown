@@ -1,0 +1,5 @@
+# POWER PLAY Housing Helper App
+
+Complete mobile application for housing assistance, credit dispute forms, and tenant screening optimization.
+
+## Project Structure
