@@ -1,0 +1,3 @@
+API_URL=https://api.powerplayrc.com
+STRIPE_KEY=your_stripe_key
+SENTRY_DSN=your_sentry_dsn
